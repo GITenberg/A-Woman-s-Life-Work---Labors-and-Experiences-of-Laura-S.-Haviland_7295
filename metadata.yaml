@@ -1,0 +1,27 @@
+_repo: A-Woman-s-Life-Work---Labors-and-Experiences-of-Laura-S.-Haviland_7295
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haviland, Laura S. (Laura Smith)
+    alias: Haviland, Laura Smith
+    birthdate: 1808
+    deathdate: 1898
+    gutenberg_agent_id: '2411'
+    url: http://www.gutenberg.org/2009/agents/2411
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freedmen'
+- !lcc 'E300'
+- !lcsh 'Haviland, Laura S. (Laura Smith), 1808-1898'
+- !lcsh 'Underground Railroad'
+- GITenberg
+title: A Woman's Life-Work — Labors and Experiences of Laura S. Haviland
+url: http://www.gutenberg.org/ebooks/7295
